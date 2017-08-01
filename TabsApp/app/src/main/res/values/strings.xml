@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CrashService</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="crash_time">Crash time</string>
+    <string name="indicator_shot">Shot indicator</string>
+    <string name="action_settings">Settings</string>
+    <string name="strength_shake">The strength of the shaking</string>
+    <string name="strength_change">Change strength</string>
+    <string name="low_strength">Low</string>
+    <string name="middle_strength">Middle</string>
+    <string name="strong_strength">Strong</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="GPS_coordinates">GPS Coordinates</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="speed">Speed</string>
+    <string name="preference_key">key_pref</string>
+    <string name="coordinate_transfer_method">Coordinate transfer method</string>
+</resources>
